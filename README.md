@@ -1,6 +1,8 @@
 # GreedyNAR
 Greedy nonlinear autoregression for multifidelity modeling.
 
+MATLAB code for the paper, Greedy nonlinear autoregression for multifidelity computer models at different scales (https://www.sciencedirect.com/science/article/pii/S2666546820300124).
+
 This repository provides a modification of the nonlinear autoregression method for a model sequential construction based on greedy approaches. It also provides the stochastic collocation method for multifidelity modeling and Gaussian process with sequential learning for comparison.
 
 Please refer Demo_synthe_01.m and Demo_synthe_02.m for the usage of the code. Please add all subfolder to your path to start using the code.
