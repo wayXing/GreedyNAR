@@ -1,5 +1,6 @@
 # GreedyNAR
 Greedy nonlinear autoregression for multifidelity modeling.
+(Multi-fidelity Gaussian process regression with active learning based on a greedy approach) 
 
 MATLAB code for the paper, Greedy nonlinear autoregression for multifidelity computer models at different scales (https://www.sciencedirect.com/science/article/pii/S2666546820300124).
 
